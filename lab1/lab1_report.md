@@ -1,8 +1,8 @@
 # Лабораторная работа №1 «Обзор Google Cloud и исследование основных сервисов»
 
 **University:** [ITMO University](https://itmo.ru/ru/)  
-**Faculty:** [FICT](https://ftmi.itmo.ru)  
-**Course:** [Cloud platforms as the basis of technology entrepreneurship](https://)  
+**Faculty:** [FTMI](https://ftmi.itmo.ru)  
+**Course:** [Cloud platforms as the basis of technology entrepreneurship](https://itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/)  
 **Year:** 2024/2025  
 **Group:** U4125  
 **Author:** Mironov Daniil Gennadevich  
