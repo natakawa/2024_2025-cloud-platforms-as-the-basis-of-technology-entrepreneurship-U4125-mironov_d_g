@@ -10,8 +10,6 @@
 **Date of create:** 27.04.2025  
 **Date of finished:** 
 
----
-
 ## Ход работы
 
 ### 1. Получение доступа к Google Cloud
