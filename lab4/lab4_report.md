@@ -1,4 +1,4 @@
-# Лабораторная работа №3 «Исследование Cloud Storage»
+# Лабораторная работа №4 «Разработка инфраструктуры MVP AI‑приложения»
 
 **University:** [ITMO University](https://itmo.ru/ru/)  
 **Faculty:** [FTMI](https://ftmi.itmo.ru)  
